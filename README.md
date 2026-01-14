@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Patima Tinsumran
 
 🎓 Computer Engineering & Artificial Intelligence Student  
-💻 Aspiring Software Developer (Intern / Junior)
+💻 Aspiring Software Developer (Trainee)
 
 ---
 
