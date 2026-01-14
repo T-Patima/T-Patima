@@ -36,7 +36,5 @@ I enjoy building web applications, learning new technologies, and solving proble
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/yourusername  
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile
+## 📫 Contact 
+- Email: patimatinsu@gmail.com  
